@@ -15,6 +15,7 @@ theme = "hugo-icarus-theme"
 
 # This is where the generated contents stays at rest
 publishdir = "../website/"
+enableRobotsTXT = "true"
 
 [permalinks]
     post = "/:slug"
