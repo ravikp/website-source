@@ -17,7 +17,7 @@ categories = ['scm']
 7. Do not change your existing pipelines to build the code. Rather create new pipelines for building the source code.
 8. All migration scripts should be version controlled as well.
 
-#### On the day of migration:
+#### On "the day" of migration:
 
 1. Aim to migrate with just 1 click.
 2. Your continuous integration (ci) pipelines should start to build code from new repositories.
